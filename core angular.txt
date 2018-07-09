@@ -1,0 +1,37 @@
+https://dzone.com/articles/getting-started-with-angular-60
+
+1.Check node installation
+
+2.check npm installation 
+
+3.Check VS207 or VSC code installed
+
+4.Check angular cli latest
+
+5.Create Angular App using Angular/CLI
+
+6.npm install --save bootstrap jquery 	
+https://www.techiediaries.com/angular-bootstrap-tutorial/
+
+7.npm install bootstrap --save
+npm install jquery --save
+npm install popper.js --save
+npm install bootstrap font-awesome
+
+https://stackoverflow.com/questions/43557321/angular-4-how-to-include-bootstrap
+
+
+Urls
+----------------
+
+
+http://www.talkingdotnet.com/add-bootstrap-4-to-angular-6-application/
+https://medium.com/@beeman/tutorial-styling-angular-cli-v6-apps-with-bootstrap-8d4f8ea5adae
+https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+https://stackoverflow.com/questions/43557321/angular-4-how-to-include-bootstrap
+http://technobytz.com/install-bootstrap-4-using-npm.html
+
+
+angular  core
+----------------
+https://www.c-sharpcorner.com/article/contact-application-using-asp-net-core-web-api-angular-6-0-and-visual-studio-c/

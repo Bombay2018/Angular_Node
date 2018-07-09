@@ -1,0 +1,44 @@
+asp.net core + angular 
+
+https://www.c-sharpcorner.com/article/contact-application-using-asp-net-core-web-api-angular-6-0-and-visual-studio-c/
+
+http://ankitsharmablogs.com/crud-operations-asp-net-core-using-angular-5-ado-net/
+
+https://www.codeproject.com/Tips/1221171/Working-with-Angular-Cli-plus-ASP-NET-Core-Web-API
+
+
+google text
+visual studio code asp.net core angular 2 project structure
+
+angularjs 6 install observables
+
+
+angular-cli
+
+https://github.com/angular/angular-cli/wiki/generate-service
+
+boostrapp
+https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+https://www.techiediaries.com/angular-bootstrap-tutorial/
+http://www.talkingdotnet.com/add-bootstrap-4-to-angular-6-application/
+https://dzone.com/articles/bootstrap-4-and-angular-a-beginners-guide-to-custo
+
+angular 6
+
+https://appdividend.com/2018/05/05/angular-6-tutorial-with-example-using-angular-cli/
+https://blog.ninja-squad.com/2018/05/04/angular-cli-6.0/
+
+https://medium.com/codingthesmartway-com-blog/creating-angular-projects-with-angular-cli-e32b2cb486da
+
+https://github.com/Ismaestro/angular6-example-app
+
+
+upgrade
+
+http://www.talkingdotnet.com/how-to-create-an-angular-6-app-with-visual-studio-2017/
+http://www.talkingdotnet.com/upgrade-angular-5-app-angular-6-visual-studio-2017/
+
+https://www.c-sharpcorner.com/article/always-use-angular-latest-version-with-visual-studio-2017/
+
+
+https://www.trycatchfail.com/2018/05/18/using-angular-6-with-visual-studio-2017/
